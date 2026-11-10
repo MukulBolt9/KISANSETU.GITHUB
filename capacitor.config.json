@@ -1,0 +1,14 @@
+{
+  "appId": "com.kisansetu.ai",
+  "appName": "KisanSetu AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}

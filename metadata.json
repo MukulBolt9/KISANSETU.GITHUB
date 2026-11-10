@@ -1,0 +1,8 @@
+{
+  "name": "Remix KisanSetu AI",
+  "description": "Low-data AI agricultural advisory, voice expense logging, vector crop triage, and digital farm credit scoring for rural families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

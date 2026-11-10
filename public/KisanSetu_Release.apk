@@ -1,0 +1,7 @@
+KisanSetu AI Android Binary Package (Simulated)
+v1.0.0-release
+Package: com.kisansetu.ai
+Build Architecture: arm64-v8a, armeabi-v7a
+SDK: 34 (Android 14)
+Signed: True
+Permissions: CAMERA, AUDIO, SMS, NETWORK
